@@ -1,0 +1,150 @@
+body {
+    background-image: url("images/b_body.jpg")
+}
+
+#ratio {
+    margin: auto 400px;
+}
+
+.navigationBar {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigationBar a {
+    text-decoration: none;
+}
+
+.logoArea {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: initial;
+}
+
+.imageBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.imageBlockBackground {
+    background: url("images/b_thumbs.png");
+    height: 305px;
+    margin-top: 30px;
+}
+
+.mainInfo {
+    padding-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainInfoDate {
+    color: green;
+    font-size: 20px;
+    margin: -20px -20px -20px 13px;
+}
+
+.mainInfo h2 {
+    color: green;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerContactBlock a {
+    font-size: 17px;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.pMainHr {
+    margin-top: 15px;
+    border: 1px dashed grey;
+}
+
+.portfolioMainArea {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.pNums {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.linkAndNumsPortfolio {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutMeGreenText {
+    color: green;
+    text-decoration: underline;
+}
+
+.greenTextUnderlined {
+    color: green;
+    text-decoration: underline;
+}
+
+.aboutMeArea {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aboutMeSection2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.dExp {
+    display: flex;
+    justify-content: space-between;
+}
+
+.servicesSection1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.servicesSection2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.contactMeSection1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputs {
+    margin-left: 10px;
+    border: 1px dashed grey;
+    height: 40px;
+    width: 260px;
+}
+
+.message {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 809px;
+    height: 170px;
+    border: 1px dashed grey;
+}
